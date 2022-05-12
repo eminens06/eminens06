@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m a fourth year Pols student in Ankara, Turkey!
 - 🔭 I’m currently working on Game theory and behavioural experiments
 - 🤔 I’m looking for help with anything about programming
 - ⚡ Not a Fun fact: I cannot do somersaults
